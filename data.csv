@@ -1,0 +1,15 @@
+ID,Age,Income,Gender,Marial Status,Buys
+1,20,high,male,single,no
+2,18,high,male,married,no
+3,25,high,male,single,yes
+4,36,medium,male,single,yes
+5,40,low,female,single,yes
+6,39,low,female,married,no
+7,30,low,female,married,yes
+8,16,medium,male,single,no
+9,19,low,female,married,yes
+10,45,medium,female,single,yes
+11,15,medium,female,married,yes
+12,33,medium,male,married,yes
+13,22,high,female,single,yes
+14,66,medium,male,married,no
